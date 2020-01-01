@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Resistori</string>
+    <string name="title_home">Tabelle</string>
+    <string name="title_calcola">Calcola</string>
+    <string name="title_conoscenza">Cose?</string>
+
+    <string name="title_activity_scrolling">Cos’è un resistore e a cosa serve?</string>
+    <string name="large_text">In elettronica, elemento circuitale che, al passaggio della corrente, offre una resistenza elettrica di valore noto,
+        provocando una caduta di tensione
+        e riscaldandosi (come i filamenti delle lampadine e le spirali o eliche degli elettrodomestici); detto anche, impropr.,
+        resistenza, che invece è la grandezza elettrica che caratterizza il resistore.
+        I resistori (chiamati anche impropriamente “resistenze“) sono componenti passivi che limitano il passaggio di corrente elettrica.\n
+        \nI resistori sono largamente usati nei circuiti elettronici e sono impiegati anche negli elettrodomestici di più comune utilizzo.
+Un possibile utilizzo dei resistori è infatti quello di impiegarli per convertire una corrente elettrica in calore (effetto Joule).\n
+Questo tipo di resistenze sono utilizzate all’interno di phon, forni, bollitori, ferri da stiro ecc.. ecc..\n
+Ci sono diverse tecniche per produrre un resistore, possono essere composti da un’avvolgimento di filo o da una pasta semiconduttiva.
+I resistori possono essere fissi o variabili. Una “resistenza” variabile può a sua volta essere lineare o logaritmica.
+Le principali caratteristiche di un resistore sono:\n
+
+il valore della resistenza (espressa in ohm con il simbolo Ω)\n
+la massima potenza dissipabile senza che il componente subisca danni\n
+la tolleranza(espressa in percentuale)\n\n
+
+I valori di una resistenza possono assumere ordini di grandezza della frazione di ohm fino a centinaia di Megaohm.
+
+Le resistenze hanno stampato un codice numerico (nei componenti SMD) o un codice colore (resistori assiali) di 3 o 4 cifre, in base alla tolleranza.\n\n
+    Una resistenzaelettrica o resistore, è un componente elettrico fondamentale, sicuramente è il componente elettronico piu importante: consiste in un
+        materiale che oppone una certa resistenza al passaggio della corrente.\n\n
+    Gli usi piu comuni di una resistenza elettrica consistono nel limitare la corrente all\'interno di settori e rami dei circuiti elettrici,
+        proteggere altri componenti da correnti elevate,manipolare segnali, creare dei filtri per eliminare interferenze etc. etc.\n\n
+    In altre parole, una resistenza elettrica è un conduttore che conduce solo in parte la corrente.
+Sono esempi di resistenze elettriche il corpo umano, l\'acqua, e una vasta gamma di materiali di vario tipo.\n\n
+
+Piu è elevata la resistenza e minore è la corrente che scorre nella resistenza a parità di Volt.\nLe leggi di Ohm definiscono le relazioni tra
+        resistenza, corrente e tensione e sono i fondamenti dell\'elettronica, vedremo piu avanti in cosa consistono.\n\n
+
+Ogni resistenza ha un valore nominale espresso in Ohm (valore approssimativo dichiarato dal produttore con una certa tolleranza espressa in %)
+        e un valore reale individuabile solo con un Ohm-Metro.\n\n
+Le bande colorate che avvolgono il resistore, sono una codifica di numeri che servono per leggere il valore nominale. Esistono diversi tipi di
+        codifica a seconda del produttore dei resistori.\nNel formato a montaggio superficiale SMD, invece in molti casi non è presente nessun
+        riferimento al valore nominale per via delle dimensioni ridotte del componente.\n\n
+
+Una volta attraversata da corrente il resistore produce calore che viene dissipato nell\'ambiente circostante.
+Da questa altra caratteristica nasce il secondo parametro dei resistori per la loro scelta, che è quello della potenza massima che si esprime in Watt.
+
+\n\nLa proprietà della resistenza nel trasformare elettricità in calore viene spesso utilizzata negli elettrodomestici
+        per riscaldare acqua (scaldabagno elettrico), cibo, nei forni elettrici, asciugacapelli, stufette.</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_calcola">Calcola valore resistenza</string>
+    <string name="title_activity_tabelle">Tabelle valori anelli</string>
+    <string name="title_activity_serie">Calcola le serie</string>
+    <string name="section_format">Resistenze in serie %1$d</string>
+</resources>

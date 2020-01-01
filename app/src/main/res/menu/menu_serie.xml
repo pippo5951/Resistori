@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="giubotta.gbsoft.resistori.SerieActivity">
+
+    <item
+        android:id="@+id/action_calcola"
+        android:orderInCategory="100"
+        android:title="Calcola valore"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_tabelle"
+        android:orderInCategory="100"
+        android:title="Tabelle"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_help"
+        android:orderInCategory="100"
+        android:title="Help"
+        app:showAsAction="never" />
+</menu>
